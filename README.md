@@ -1,2 +1,3 @@
 # R-Shiny-App-to-detect-probability-of-heart-disease
-We developed an app via R Shiny to detect probability of heart disease
+We have built a Shiny app to predict the probability of heart disease in a given individual.  We believe that this app will be an asset in the hands of sales teams for Health Insurance Companies.  Sales agents can use the app when they are pitching products that cover heart disease. On hearing what is the probability that they may get heart disease, most people are likely to be garner strong interest in Health Insurance products. We found a Cardiovascular dataset on Kaggle with 70,000 observations. We explored and transformed our data and build a model to predict the probability of heart disease.  
+Link to the app :(https://rohitsoans.shinyapps.io/cardio_check/ )  
